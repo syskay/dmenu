@@ -6,3 +6,4 @@ My fork of dmenu
 
 * Patches
 - center
+- fuzzymatch
