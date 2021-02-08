@@ -9,3 +9,4 @@ My fork of dmenu
 - fuzzymatch
 - numbers
 - grid
+- borderoption
