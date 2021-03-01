@@ -6,6 +6,7 @@ My fork of dmenu
 
 * Patches
 - center
+- xresources
 - fuzzymatch
 - numbers
 - grid
